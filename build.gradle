@@ -245,7 +245,7 @@ publisher {
 
     // Fancy display name for the upload.
     // Will default to the project version if not set
-    setDisplayName("[1.20.x] Equipment Packet Fix - ${project.version}")
+    setDisplayName("[1.20.1] Equipment Packet Fix - ${project.version}")
 
     // The supported game versions
     setGameVersions("1.20.1")
