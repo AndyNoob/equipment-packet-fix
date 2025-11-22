@@ -6,3 +6,5 @@ Mixes into `CompoundTag` to do two things:
 `detectExceptions` - (default `false`) Try and log when exceptions might happen, logging the `CompoundTag` in question
 ## Modpacks
 Free to use in modpacks, but please do not redistribute.
+## Credits
+Logo textures from Minecraft (armor) and Minecraft Dungeons (hammer)
