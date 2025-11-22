@@ -275,5 +275,5 @@ publisher {
 
     // Add supported java versions. Currently only used by CurseForge
     // Supports anything that can be parsed using JavaVersion.toVersion()
-    setJavaVersions(JavaVersion.VERSION_1_7, 17)
+    setJavaVersions(JavaVersion.VERSION_17, 17)
 }
