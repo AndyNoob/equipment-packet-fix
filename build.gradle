@@ -228,6 +228,8 @@ publisher {
     // Modrinth Project ID
     setModrinthID("iFZsHhBW")
 
+    setGithubRepo("AndyNoob/equipment-packet-fix")
+
     // Type of release. beta, alpha or release
     // You can also use VersionType.BETA, VersionType.ALPHA or VersionType.RELEASE
     setVersionType("release")
@@ -260,7 +262,7 @@ publisher {
 
     // Upload the release, but keep it "private" until you are ready
     // Unreleased feature on CurseForge, working on Modrinth
-    setIsManualRelease(true)
+    setIsManualRelease(false)
 
     // The file to be uploaded. This can be a file, task, or string.
     // setArtifact("build/libs/mymod.jar")
