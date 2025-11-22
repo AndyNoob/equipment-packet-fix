@@ -4,3 +4,5 @@ Mixes into `CompoundTag` to do two things:
 2. Avoid a `EncoderException` (caused by `NullFointerException`) in `CompoundTag#writeNamedTag` by adding a null safeguard
 ## Config
 `detectExceptions` - (default `false`) Try and log when exceptions might happen, logging the `CompoundTag` in question
+## Modpacks
+Free to use in modpacks, but please do not redistribute.
